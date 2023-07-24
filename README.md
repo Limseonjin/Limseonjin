@@ -7,6 +7,7 @@
 
 <span>💻 현재 공부중인 웹개발 & 백엔드 주니어 개발자입니다.</span>
 
+[정리노트](https://www.notion.so/HTML-9ba1c14abdc742ae85df1605e0705a4a?pvs=4)
 
   <br><br>
   <h2>🔨 Tech Stack</h2>
