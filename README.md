@@ -42,8 +42,6 @@
 <div align="center">
 <h2>⚙ Status</h2>
   
-![flag-india](https://github-readme-stats.vercel.app/api?username=JOY0987&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=flag-india)
-  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy0987&layout=compact">
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limseonjin)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
