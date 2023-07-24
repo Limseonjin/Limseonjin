@@ -6,8 +6,6 @@
 
 
 <span>💻 현재 공부중인 웹개발 & 백엔드 주니어 개발자입니다.</span>
-	
-### <div><a href="https://joy0987.notion.site/f23627a5caa04cbdbd476a58c8901dbd">Portfolio</a></div>
 
 <span>👆 click!</span>
 
@@ -34,7 +32,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
   <br>
   <h3>Dev Tools</h3>
-  <img src="https://img.shields.io/badge/intellij%20Idea-000000?style=flat&logo=IntelliJIdea&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   <br>
