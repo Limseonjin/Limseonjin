@@ -1,7 +1,7 @@
 <div align="center">
   
 	
-  ![header](https://capsule-render.vercel.app/api?type=sliceg&color=randomE&height=250&text=SEONJIN%GitHub%20🍀&fontSize=60)
+  ![header](https://capsule-render.vercel.app/api?type=sliceg&color=random)
   
 
 
