@@ -6,7 +6,7 @@
 
 
 <span>💻 현재 공부중인 웹개발 & 백엔드 주니어 개발자입니다.</span>
-<img src="https://i.namu.wiki/i/8I60NoRSRa_b_RqGWCn5ysU8Hh39VFDBLH6ADThaFMxmafO6zzAlNMdD3IyV_Rd-iFTyXHE24zk3KEE7I2csVA.webp">
+<img src="https://i.namu.wiki/i/RXNKZ0pdbXadZs-uEeLz1C4SURcGKCNABbzeKYhVTZrT-VGXT_s4S0xp-APa6j9JA0BBlpeLbW2QAPgCHtW4kw.gif">
 
 [정리노트](https://www.notion.so/HTML-9ba1c14abdc742ae85df1605e0705a4a?pvs=4)
 
