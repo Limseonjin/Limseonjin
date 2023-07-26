@@ -6,8 +6,7 @@
 
 
 <span>💻 현재 공부중인 웹개발 & 백엔드 주니어 개발자입니다.</span><br>
-<img src="https://tenor.com/ko/view/banana-cat-crying-gif-13529723205116845676">
-
+<img src="https://media.tenor.com/u8M7kk5ZXmwAAAAC/banana-cat-crying.gif"><br>
 [정리노트](https://www.notion.so/HTML-9ba1c14abdc742ae85df1605e0705a4a?pvs=4)
 
   <br><br>
