@@ -9,9 +9,8 @@
 <img src="https://media.tenor.com/u8M7kk5ZXmwAAAAC/banana-cat-crying.gif"><br>
 [정리노트](https://www.notion.so/HTML-9ba1c14abdc742ae85df1605e0705a4a?pvs=4)
 
-  <br><br>
-  <h2>🔨 Tech Stack</h2>
-  <h3>Language</h3>
+  <br>
+  <h2>🔨 My Language </h2>
   <h3> Server </h3>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white">
@@ -25,7 +24,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
 
-  <br><br>
+  <br>
   <h3>ect</h3>
   <h3>DB</h3>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
@@ -38,7 +37,7 @@
   <h3>Version Management</h3>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<br><br><br> 
+<br><br> 
 <div align="center">
 <h2>⚙ Status</h2>
   
