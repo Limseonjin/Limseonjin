@@ -43,6 +43,6 @@
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limseonjin)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={tjswls9721})](https://solved.ac/{tjswls9721})
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=tjswls9721)](https://solved.ac/tjswls9721)
 </div>
 
